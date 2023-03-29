@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.vice_xscpu64.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.vice_xscpu64)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.vice_xscpu64?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-vice-xscpu64)
-
 # Commodore - C64 SuperCPU (VICE xscpu64)
 
 ### Description
