@@ -186,264 +186,320 @@ msgid "OSD > Statusbar Mode"
 msgstr ""
 
 msgctxt "#30040"
-msgid "OSD > Statusbar Messages"
+msgid "OSD > Statusbar Startup"
 msgstr ""
 
 msgctxt "#30041"
-msgid "OSD > Light Pen/Gun Pointer Color"
-msgstr "OSD > Valokynän/-aseen osoittimen väri"
+msgid "OSD > Statusbar Messages"
+msgstr ""
 
 msgctxt "#30042"
-msgid "Show Audio Options"
+msgid "OSD > Light Pen/Gun Pointer Color"
 msgstr ""
 
 msgctxt "#30043"
-msgid "Audio > Drive Sound Emulation"
+msgid "Show Audio Options"
 msgstr ""
 
 msgctxt "#30044"
-msgid "Audio > VIC-II Audio Leak Emulation"
+msgid "Audio > Drive Sound Emulation"
 msgstr ""
 
 msgctxt "#30045"
-msgid "Audio > SID Engine"
+msgid "Audio > VIC-II Audio Leak Emulation"
 msgstr ""
 
 msgctxt "#30046"
-msgid "Audio > SID Model"
+msgid "Audio > SID Engine"
 msgstr ""
 
 msgctxt "#30047"
-msgid "Audio > SID Extra"
+msgid "Audio > SID Model"
 msgstr ""
 
 msgctxt "#30048"
-msgid "Audio > ReSID Sampling"
+msgid "Audio > SID Extra"
 msgstr ""
 
 msgctxt "#30049"
-msgid "Audio > ReSID Filter Passband"
+msgid "Audio > ReSID Sampling"
 msgstr ""
 
 msgctxt "#30050"
-msgid "Audio > ReSID Filter Gain"
+msgid "Audio > ReSID Filter Passband"
 msgstr ""
 
 msgctxt "#30051"
-msgid "Audio > ReSID Filter 6581 Bias"
+msgid "Audio > ReSID Filter Gain"
 msgstr ""
 
 msgctxt "#30052"
-msgid "Audio > ReSID Filter 8580 Bias"
+msgid "Audio > ReSID Filter 6581 Bias"
 msgstr ""
 
 msgctxt "#30053"
-msgid "Audio > Sample Rate"
+msgid "Audio > ReSID Filter 8580 Bias"
 msgstr ""
 
 msgctxt "#30054"
-msgid "Input > Analog Stick Mouse"
+msgid "Audio > Sample Rate"
 msgstr ""
 
 msgctxt "#30055"
+msgid "Input > Analog Stick Mouse"
+msgstr ""
+
+msgctxt "#30056"
 msgid "Input > Analog Stick Mouse Deadzone"
 msgstr "Syöttö > Analogisen sauvan hiiren kuollut alue"
 
-msgctxt "#30056"
+msgctxt "#30057"
 msgid "Input > Analog Stick Mouse Speed"
 msgstr ""
 
-msgctxt "#30057"
+msgctxt "#30058"
 msgid "Input > D-Pad Mouse Speed"
 msgstr ""
 
-msgctxt "#30058"
+msgctxt "#30059"
 msgid "Input > Mouse Speed"
 msgstr ""
 
-msgctxt "#30059"
+msgctxt "#30060"
 msgid "Input > Keyboard Pass-through"
 msgstr ""
 
-msgctxt "#30060"
+msgctxt "#30061"
 msgid "Input > Keyrah Keypad Mappings"
 msgstr ""
 
-msgctxt "#30061"
+msgctxt "#30062"
 msgid "Input > Keyboard Keymap"
 msgstr ""
 
-msgctxt "#30062"
+msgctxt "#30063"
 msgid "Show Mapping Options"
 msgstr ""
 
-msgctxt "#30063"
+msgctxt "#30064"
 msgid "Hotkey > Toggle Virtual Keyboard"
 msgstr ""
 
-msgctxt "#30064"
+msgctxt "#30065"
 msgid "Hotkey > Toggle Statusbar"
 msgstr ""
 
-msgctxt "#30065"
+msgctxt "#30066"
 msgid "Hotkey > Switch Joyport"
 msgstr ""
 
-msgctxt "#30066"
+msgctxt "#30067"
 msgid "Hotkey > Toggle Turbo Fire"
 msgstr ""
 
-msgctxt "#30067"
+msgctxt "#30068"
 msgid "Hotkey > Toggle Save Disk"
 msgstr ""
 
-msgctxt "#30068"
+msgctxt "#30069"
 msgid "Hotkey > Reset"
 msgstr ""
 
-msgctxt "#30069"
+msgctxt "#30070"
 msgid "Hotkey > Hold Warp Mode"
 msgstr ""
 
-msgctxt "#30070"
+msgctxt "#30071"
 msgid "Hotkey > Toggle Aspect Ratio"
 msgstr ""
 
-msgctxt "#30071"
+msgctxt "#30072"
 msgid "Hotkey > Toggle Crop"
 msgstr ""
 
-msgctxt "#30072"
+msgctxt "#30073"
 msgid "Hotkey > Toggle Zoom Mode"
 msgstr ""
 
-msgctxt "#30073"
+msgctxt "#30074"
 msgid "RetroPad > Up"
 msgstr ""
 
-msgctxt "#30074"
+msgctxt "#30075"
 msgid "RetroPad > Down"
 msgstr ""
 
-msgctxt "#30075"
-msgid "RetroPad > Left"
-msgstr "RetroPad > Vasemmalle"
-
 msgctxt "#30076"
-msgid "RetroPad > Right"
-msgstr "RetroPad > Oikealle"
+msgid "RetroPad > Left"
+msgstr ""
 
 msgctxt "#30077"
-msgid "RetroPad > A"
+msgid "RetroPad > Right"
 msgstr ""
 
 msgctxt "#30078"
-msgid "RetroPad > B"
+msgid "RetroPad > A"
 msgstr ""
 
 msgctxt "#30079"
-msgid "RetroPad > X"
+msgid "RetroPad > B"
 msgstr ""
 
 msgctxt "#30080"
-msgid "RetroPad > Y"
+msgid "RetroPad > X"
 msgstr ""
 
 msgctxt "#30081"
-msgid "RetroPad > Select"
+msgid "RetroPad > Y"
 msgstr ""
 
 msgctxt "#30082"
-msgid "RetroPad > Start"
+msgid "RetroPad > Select"
 msgstr ""
 
 msgctxt "#30083"
-msgid "RetroPad > L"
+msgid "RetroPad > Start"
 msgstr ""
 
 msgctxt "#30084"
-msgid "RetroPad > R"
+msgid "RetroPad > L"
 msgstr ""
 
 msgctxt "#30085"
-msgid "RetroPad > L2"
+msgid "RetroPad > R"
 msgstr ""
 
 msgctxt "#30086"
-msgid "RetroPad > R2"
+msgid "RetroPad > L2"
 msgstr ""
 
 msgctxt "#30087"
-msgid "RetroPad > L3"
+msgid "RetroPad > R2"
 msgstr ""
 
 msgctxt "#30088"
-msgid "RetroPad > R3"
+msgid "RetroPad > L3"
 msgstr ""
 
 msgctxt "#30089"
-msgid "RetroPad > Left Analog > Up"
-msgstr "RetroPad > Oikea analoginen > Ylös"
+msgid "RetroPad > R3"
+msgstr ""
 
 msgctxt "#30090"
-msgid "RetroPad > Left Analog > Down"
-msgstr "RetroPad > Vasen analoginen > Alas"
+msgid "RetroPad > Left Analog > Up"
+msgstr ""
 
 msgctxt "#30091"
-msgid "RetroPad > Left Analog > Left"
-msgstr "RetroPad > Vasen analoginen > Vasemmalle"
+msgid "RetroPad > Left Analog > Down"
+msgstr ""
 
 msgctxt "#30092"
-msgid "RetroPad > Left Analog > Right"
-msgstr "RetroPad > Vasen analoginen > Oikealle"
+msgid "RetroPad > Left Analog > Left"
+msgstr ""
 
 msgctxt "#30093"
-msgid "RetroPad > Right Analog > Up"
-msgstr "RetroPad > Oikea analoginen > Ylös"
+msgid "RetroPad > Left Analog > Right"
+msgstr ""
 
 msgctxt "#30094"
-msgid "RetroPad > Right Analog > Down"
-msgstr "RetroPad > Oikea analoginen > Alas"
+msgid "RetroPad > Right Analog > Up"
+msgstr ""
 
 msgctxt "#30095"
-msgid "RetroPad > Right Analog > Left"
-msgstr "RetroPad > Oikea analoginen > Vasemmalle"
+msgid "RetroPad > Right Analog > Down"
+msgstr ""
 
 msgctxt "#30096"
-msgid "RetroPad > Right Analog > Right"
-msgstr "RetroPad > Oikea analoginen > Oikealle"
+msgid "RetroPad > Right Analog > Left"
+msgstr ""
 
 msgctxt "#30097"
-msgid "RetroPad > Turbo Fire"
+msgid "RetroPad > Right Analog > Right"
 msgstr ""
 
 msgctxt "#30098"
-msgid "RetroPad > Turbo Button"
+msgid "RetroPad > Turbo Fire"
 msgstr ""
 
 msgctxt "#30099"
-msgid "RetroPad > Turbo Pulse"
+msgid "RetroPad > Turbo Button"
 msgstr ""
 
 msgctxt "#30100"
-msgid "Input > Userport Joystick Adapter"
+msgid "RetroPad > Turbo Pulse"
 msgstr ""
 
 msgctxt "#30101"
-msgid "RetroPad > Joystick Port"
-msgstr "RetroPad > Peliohjainportti"
+msgid "Input > Userport Joystick Adapter"
+msgstr ""
 
 msgctxt "#30102"
-msgid "RetroPad > Joystick Port Type"
-msgstr "RetroPad > Peliohjainportin tyyppi"
+msgid "RetroPad > Joystick Port"
+msgstr ""
 
 msgctxt "#30103"
+msgid "RetroPad > Joystick Port Type"
+msgstr ""
+
+msgctxt "#30104"
 msgid "RetroPad > Face Button Options"
 msgstr ""
 
-#~ msgctxt "#30056"
+#~ msgctxt "#30041"
+#~ msgid "OSD > Light Pen/Gun Pointer Color"
+#~ msgstr "OSD > Valokynän/-aseen osoittimen väri"
+
+#~ msgctxt "#30055"
 #~ msgid "Input > Analog Stick Mouse Deadzone"
 #~ msgstr "Syöttö > Analogisen sauvan hiiren kuollut alue"
+
+#~ msgctxt "#30075"
+#~ msgid "RetroPad > Left"
+#~ msgstr "RetroPad > Vasemmalle"
+
+#~ msgctxt "#30076"
+#~ msgid "RetroPad > Right"
+#~ msgstr "RetroPad > Oikealle"
+
+#~ msgctxt "#30089"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr "RetroPad > Oikea analoginen > Ylös"
+
+#~ msgctxt "#30090"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr "RetroPad > Vasen analoginen > Alas"
+
+#~ msgctxt "#30091"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr "RetroPad > Vasen analoginen > Vasemmalle"
+
+#~ msgctxt "#30092"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr "RetroPad > Vasen analoginen > Oikealle"
+
+#~ msgctxt "#30093"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr "RetroPad > Oikea analoginen > Ylös"
+
+#~ msgctxt "#30094"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr "RetroPad > Oikea analoginen > Alas"
+
+#~ msgctxt "#30095"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr "RetroPad > Oikea analoginen > Vasemmalle"
+
+#~ msgctxt "#30096"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr "RetroPad > Oikea analoginen > Oikealle"
+
+#~ msgctxt "#30101"
+#~ msgid "RetroPad > Joystick Port"
+#~ msgstr "RetroPad > Peliohjainportti"
+
+#~ msgctxt "#30102"
+#~ msgid "RetroPad > Joystick Port Type"
+#~ msgstr "RetroPad > Peliohjainportin tyyppi"
 
 #~ msgctxt "#30083"
 #~ msgid "RetroPad > Left"
