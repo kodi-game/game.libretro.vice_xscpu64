@@ -445,6 +445,10 @@ msgctxt "#30104"
 msgid "RetroPad > Face Button Options"
 msgstr "RetroPad > Opciones Botón Frontal"
 
+msgctxt "#30105"
+msgid "System > Printer"
+msgstr ""
+
 #~ msgctxt "#30040"
 #~ msgid "OSD > Statusbar Messages"
 #~ msgstr "OSD > Mensajes en la Barra de Estado"

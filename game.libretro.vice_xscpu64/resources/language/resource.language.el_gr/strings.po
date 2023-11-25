@@ -443,3 +443,7 @@ msgstr ""
 msgctxt "#30104"
 msgid "RetroPad > Face Button Options"
 msgstr ""
+
+msgctxt "#30105"
+msgid "System > Printer"
+msgstr ""
