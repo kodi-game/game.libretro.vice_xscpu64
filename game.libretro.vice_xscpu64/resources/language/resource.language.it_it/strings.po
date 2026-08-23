@@ -2821,6 +2821,14 @@ msgctxt "#30673"
 msgid "Purple"
 msgstr "Viola"
 
+msgctxt "#30674"
+msgid "6581"
+msgstr ""
+
+msgctxt "#30675"
+msgid "8580"
+msgstr ""
+
 #~ msgctxt "#30019"
 #~ msgid "Video > Zoom Mode"
 #~ msgstr "Video > Modalità zoom"
