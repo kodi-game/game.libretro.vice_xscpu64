@@ -157,26 +157,26 @@
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
-							<option>5%</option>
-							<option>10%</option>
-							<option>15%</option>
-							<option>20%</option>
-							<option>25%</option>
-							<option>30%</option>
-							<option>35%</option>
-							<option>40%</option>
-							<option>45%</option>
-							<option>50%</option>
-							<option>55%</option>
-							<option>60%</option>
-							<option>65%</option>
-							<option>70%</option>
-							<option>75%</option>
-							<option>80%</option>
-							<option>85%</option>
-							<option>90%</option>
-							<option>95%</option>
-							<option>100%</option>
+							<option label="30215">5%</option>
+							<option label="30208">10%</option>
+							<option label="30224">15%</option>
+							<option label="30229">20%</option>
+							<option label="30234">25%</option>
+							<option label="30239">30%</option>
+							<option label="30244">35%</option>
+							<option label="30249">40%</option>
+							<option label="30254">45%</option>
+							<option label="30209">50%</option>
+							<option label="30263">55%</option>
+							<option label="30268">60%</option>
+							<option label="30273">65%</option>
+							<option label="30278">70%</option>
+							<option label="30283">75%</option>
+							<option label="30288">80%</option>
+							<option label="30293">85%</option>
+							<option label="30298">90%</option>
+							<option label="30303">95%</option>
+							<option label="30151">100%</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -219,8 +219,8 @@
 					<constraints>
 						<options>
 							<option label="30163">default</option>
-							<option>6581</option>
-							<option>8580</option>
+							<option label="30674">6581</option>
+							<option label="30675">8580</option>
 							<option label="30164">8580RD</option>
 						</options>
 					</constraints>
