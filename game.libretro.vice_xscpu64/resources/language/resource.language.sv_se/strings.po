@@ -25,425 +25,17 @@ msgctxt "Addon Description"
 msgid "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510)."
 msgstr "VICE står för Versatile Commodore Emulator. Den nuvarande versionen emulerar C64, C64DTV, C128, VIC20, praktiskt taget alla PET-modeller, PLUS4 och CBM-II (även kallad C610/C510)."
 
-msgctxt "#30001"
-msgid "System > Model"
-msgstr "System > Modell"
-
-msgctxt "#30002"
-msgid "System > SuperCPU SIMM Size"
-msgstr "System > SuperCPU SIMM-storlek"
-
-msgctxt "#30003"
-msgid "System > SuperCPU Speed Switch"
-msgstr "System > Hastighetsväxlare för SuperCPU"
-
-msgctxt "#30004"
-msgid "System > SuperCPU Kernal"
-msgstr "System > SuperCPU Kernal"
-
-msgctxt "#30005"
-msgid "System > JiffyDOS"
-msgstr "System > JiffyDOS"
-
-msgctxt "#30006"
-msgid "System > Read 'vicerc'"
-msgstr "System > Läs \"vicerc"
-
-msgctxt "#30007"
-msgid "System > Reset Type"
-msgstr "System > Omstartstyp"
-
-msgctxt "#30008"
-msgid "Media > Automatic Load Warp"
-msgstr "Media > Automatisk Load Warp"
-
-msgctxt "#30009"
-msgid "Media > Warp Boost"
-msgstr "Media > Warp Boost"
-
-msgctxt "#30010"
-msgid "Media > Autostart"
-msgstr "Media > Autostart"
-
-msgctxt "#30011"
-msgid "Media > True Drive Emulation"
-msgstr "Media > True Drive-emulering"
-
-msgctxt "#30012"
-msgid "Media > Virtual Device Traps"
-msgstr "Media > Traps för virtuella enheter"
-
-msgctxt "#30013"
-msgid "Media > Floppy Write Protection"
-msgstr "Media > Skrivskydd för disketter"
-
-msgctxt "#30014"
-msgid "Media > Global Work Disk"
-msgstr "Media > Global arbetsdisk"
-
-msgctxt "#30015"
-msgid "Media > Cartridge"
-msgstr "Media > Kassett"
-
 msgctxt "#30016"
 msgid "Show Video Options"
 msgstr "Visa videoalternativ"
-
-msgctxt "#30017"
-msgid "Video > Pixel Aspect Ratio"
-msgstr "Video > Bildförhållande per bildpunkt"
-
-msgctxt "#30018"
-msgid "Video > Crop"
-msgstr "Video > Beskär"
-
-msgctxt "#30020"
-msgid "Video > Crop Mode"
-msgstr "Video > Beskärningsläge"
-
-msgctxt "#30022"
-msgid "Video > Manual Crop Top"
-msgstr "Video > Manuell beskärning överst"
-
-msgctxt "#30023"
-msgid "Video > Manual Crop Bottom"
-msgstr "Video > Manuell beskärning nederst"
-
-msgctxt "#30024"
-msgid "Video > Manual Crop Left"
-msgstr "Video > Manuell beskärning vänster"
-
-msgctxt "#30025"
-msgid "Video > Manual Crop Right"
-msgstr "Video > Manuell beskärning höger"
-
-msgctxt "#30026"
-msgid "Video > VIC-II Filter"
-msgstr "Video > VIC-II-filter"
-
-msgctxt "#30027"
-msgid "Video > VIC-II Filter Oddline Offset"
-msgstr "Video > VIC-II-filter Oddline Offset"
-
-msgctxt "#30028"
-msgid "Video > VIC-II Filter Oddline Phase"
-msgstr "Video > VIC-II-filter Oddline Phase"
-
-msgctxt "#30029"
-msgid "Video > VIC-II Color Palette"
-msgstr "Video > VIC-II Färgpalett"
-
-msgctxt "#30030"
-msgid "Video > VIC-II Color Gamma"
-msgstr "Video > VIC-II Färggamma"
-
-msgctxt "#30031"
-msgid "Video > VIC-II Color Brightness"
-msgstr "Video > VIC-II Färgljusstyrka"
-
-msgctxt "#30032"
-msgid "Video > VIC-II Color Contrast"
-msgstr "Video > VIC-II Färgkontrast"
-
-msgctxt "#30033"
-msgid "Video > VIC-II Color Saturation"
-msgstr "Video > VIC-II Färgmättnad"
-
-msgctxt "#30034"
-msgid "Video > VIC-II Color Tint"
-msgstr "Video > VIC-II Färgtoning"
-
-msgctxt "#30035"
-msgid "Video > Color Depth"
-msgstr "Video > Färgdjup"
-
-msgctxt "#30036"
-msgid "OSD > Virtual KBD Theme"
-msgstr "OSD > Virtuellt KBD-tema"
-
-msgctxt "#30037"
-msgid "OSD > Virtual KBD Transparency"
-msgstr "OSD > Virtuell KBD-genomskinlighet"
-
-msgctxt "#30038"
-msgid "OSD > Virtual KBD Dimming"
-msgstr "OSD > Virtuell KBD-dimning"
-
-msgctxt "#30039"
-msgid "OSD > Statusbar Mode"
-msgstr "OSD > Statusfältläge"
-
-msgctxt "#30040"
-msgid "OSD > Statusbar Startup"
-msgstr "OSD > Statusfält vid uppstart"
-
-msgctxt "#30041"
-msgid "OSD > Statusbar Messages"
-msgstr "OSD > Meddelanden för statusfält"
-
-msgctxt "#30042"
-msgid "OSD > Light Pen/Gun Pointer Color"
-msgstr "OSD > Färg på ljuspennan/pistolpekaren"
 
 msgctxt "#30043"
 msgid "Show Audio Options"
 msgstr "Visa ljudalternativ"
 
-msgctxt "#30044"
-msgid "Audio > Drive Sound Emulation"
-msgstr "Ljud > Emulering av enhetsljud"
-
-msgctxt "#30045"
-msgid "Audio > VIC-II Audio Leak Emulation"
-msgstr "Audio > Emulering av ljudläckage från VIC-II"
-
-msgctxt "#30046"
-msgid "Audio > SID Engine"
-msgstr "Ljud > SID-motor"
-
-msgctxt "#30047"
-msgid "Audio > SID Model"
-msgstr "Ljud > SID-modell"
-
-msgctxt "#30048"
-msgid "Audio > SID Extra"
-msgstr "Ljud > SID Extra"
-
-msgctxt "#30049"
-msgid "Audio > ReSID Sampling"
-msgstr "Ljud > ReSID-sampling"
-
-msgctxt "#30050"
-msgid "Audio > ReSID Filter Passband"
-msgstr "Ljud > ReSID-filter passband"
-
-msgctxt "#30051"
-msgid "Audio > ReSID Filter Gain"
-msgstr "Ljud > ReSID-filter förstärkning"
-
-msgctxt "#30052"
-msgid "Audio > ReSID Filter 6581 Bias"
-msgstr "Ljud > ReSID-filter 6581 Bias"
-
-msgctxt "#30053"
-msgid "Audio > ReSID Filter 8580 Bias"
-msgstr "Ljud > ReSID-filter 8580 Bias"
-
-msgctxt "#30054"
-msgid "Audio > Sample Rate"
-msgstr "Ljud > Samplingsfrekvens"
-
-msgctxt "#30055"
-msgid "Input > Analog Stick Mouse"
-msgstr "Inmatning > Analog spak-mus"
-
-msgctxt "#30056"
-msgid "Input > Analog Stick Mouse Deadzone"
-msgstr "Inmatning > Dödzon för analog spak-mus"
-
-msgctxt "#30058"
-msgid "Input > D-Pad Mouse Speed"
-msgstr "Inmatning > Mushastighet för riktningsknappar"
-
-msgctxt "#30059"
-msgid "Input > Mouse Speed"
-msgstr "Inmatning > Mushastighet"
-
-msgctxt "#30060"
-msgid "Input > Keyboard Pass-through"
-msgstr "Inmatning > Genomströmning av tangentbord"
-
-msgctxt "#30061"
-msgid "Input > Keyrah Keypad Mappings"
-msgstr "Inmatning > Mappningar för Keyrah-tangentbord"
-
-msgctxt "#30062"
-msgid "Input > Keyboard Keymap"
-msgstr "Inmatning > Tangentbordsmappningar"
-
 msgctxt "#30063"
 msgid "Show Mapping Options"
 msgstr "Visa mappningsalternativ"
-
-msgctxt "#30064"
-msgid "Hotkey > Toggle Virtual Keyboard"
-msgstr "Snabbtangent > Växla virtuellt tangentbord"
-
-msgctxt "#30065"
-msgid "Hotkey > Toggle Statusbar"
-msgstr "Snabbtangent > Växla statusfält"
-
-msgctxt "#30066"
-msgid "Hotkey > Switch Joyport"
-msgstr "Snabbtangent > Växla Joyport"
-
-msgctxt "#30067"
-msgid "Hotkey > Toggle Turbo Fire"
-msgstr "Snabbtangent > Växla turboavfyrning"
-
-msgctxt "#30068"
-msgid "Hotkey > Toggle Save Disk"
-msgstr "Snabbtangent > Växla sparningsdisk"
-
-msgctxt "#30069"
-msgid "Hotkey > Reset"
-msgstr "Snabbknapp > Omstart"
-
-msgctxt "#30070"
-msgid "Hotkey > Hold Warp Mode"
-msgstr "Snabbtangent > Hold Warp-läge"
-
-msgctxt "#30071"
-msgid "Hotkey > Toggle Aspect Ratio"
-msgstr "Snabbtangent > Växla bildförhållande"
-
-msgctxt "#30072"
-msgid "Hotkey > Toggle Crop"
-msgstr "Snabbtangent > Växla beskärning"
-
-msgctxt "#30074"
-msgid "RetroPad > Up"
-msgstr "RetroPad > Upp"
-
-msgctxt "#30075"
-msgid "RetroPad > Down"
-msgstr "RetroPad > Ner"
-
-msgctxt "#30076"
-msgid "RetroPad > Left"
-msgstr "RetroPad > Vänster"
-
-msgctxt "#30077"
-msgid "RetroPad > Right"
-msgstr "RetroPad > Höger"
-
-msgctxt "#30078"
-msgid "RetroPad > A"
-msgstr "RetroPad > A"
-
-msgctxt "#30079"
-msgid "RetroPad > B"
-msgstr "RetroPad > B"
-
-msgctxt "#30080"
-msgid "RetroPad > X"
-msgstr "RetroPad > X"
-
-msgctxt "#30081"
-msgid "RetroPad > Y"
-msgstr "RetroPad > Y"
-
-msgctxt "#30082"
-msgid "RetroPad > Select"
-msgstr "RetroPad > Select"
-
-msgctxt "#30083"
-msgid "RetroPad > Start"
-msgstr "RetroPad > Start"
-
-msgctxt "#30084"
-msgid "RetroPad > L"
-msgstr "RetroPad > L"
-
-msgctxt "#30085"
-msgid "RetroPad > R"
-msgstr "RetroPad > R"
-
-msgctxt "#30086"
-msgid "RetroPad > L2"
-msgstr "RetroPad > L2"
-
-msgctxt "#30087"
-msgid "RetroPad > R2"
-msgstr "RetroPad > R2"
-
-msgctxt "#30088"
-msgid "RetroPad > L3"
-msgstr "RetroPad > L3"
-
-msgctxt "#30089"
-msgid "RetroPad > R3"
-msgstr "RetroPad > R3"
-
-msgctxt "#30090"
-msgid "RetroPad > Left Analog > Up"
-msgstr "RetroPad > Vänster analog > Upp"
-
-msgctxt "#30091"
-msgid "RetroPad > Left Analog > Down"
-msgstr "RetroPad > Vänster analog > Ner"
-
-msgctxt "#30092"
-msgid "RetroPad > Left Analog > Left"
-msgstr "RetroPad > Vänster analog > Vänster"
-
-msgctxt "#30093"
-msgid "RetroPad > Left Analog > Right"
-msgstr "RetroPad > Vänster analog > Höger"
-
-msgctxt "#30094"
-msgid "RetroPad > Right Analog > Up"
-msgstr "RetroPad > Höger analog > Upp"
-
-msgctxt "#30095"
-msgid "RetroPad > Right Analog > Down"
-msgstr "RetroPad > Höger analog > Ner"
-
-msgctxt "#30096"
-msgid "RetroPad > Right Analog > Left"
-msgstr "RetroPad > Höger analog > Vänster"
-
-msgctxt "#30097"
-msgid "RetroPad > Right Analog > Right"
-msgstr "RetroPad > Höger analog > Höger"
-
-msgctxt "#30098"
-msgid "RetroPad > Turbo Fire"
-msgstr "RetroPad > Turbo-avfyrning"
-
-msgctxt "#30099"
-msgid "RetroPad > Turbo Button"
-msgstr "RetroPad > Turbo-knapp"
-
-msgctxt "#30100"
-msgid "RetroPad > Turbo Pulse"
-msgstr "RetroPad > Turbo-puls"
-
-msgctxt "#30101"
-msgid "Input > Userport Joystick Adapter"
-msgstr "Inmatning > Userport Joystick-adapter"
-
-msgctxt "#30102"
-msgid "RetroPad > Joystick Port"
-msgstr "RetroPad > Port för joystick"
-
-msgctxt "#30103"
-msgid "RetroPad > Joystick Port Type"
-msgstr "RetroPad > Typ av joystickport"
-
-msgctxt "#30104"
-msgid "RetroPad > Face Button Options"
-msgstr "RetroPad > Alternativ för handlingsknappar"
-
-msgctxt "#30105"
-msgid "System > Printer"
-msgstr "System > Skrivare"
-
-msgctxt "#30106"
-msgid "Media > Floppy MultiDrive"
-msgstr "Media > Diskett MultiDrive"
-
-msgctxt "#30107"
-msgid "Video > Automatic Crop Delay"
-msgstr "Video > Automatisk fördröjning av beskärning"
-
-msgctxt "#30108"
-msgid "Input > Left Analog Stick Mouse Speed"
-msgstr "Inmatning > Mushastighet för vänster analog spak"
-
-msgctxt "#30109"
-msgid "Input > Right Analog Stick Mouse Speed"
-msgstr "Inmatning > Mushastighet för höger analog spak"
 
 msgctxt "#30110"
 msgid "System"
@@ -598,7 +190,7 @@ msgstr ""
 
 msgctxt "#30143"
 msgid "Autostart"
-msgstr ""
+msgstr "Autostart"
 
 msgctxt "#30144"
 msgid "Soft"
@@ -2508,15 +2100,15 @@ msgstr ""
 
 msgctxt "#30613"
 msgid "Toggle Virtual Keyboard"
-msgstr ""
+msgstr "Växla virtuellt tangentbord"
 
 msgctxt "#30614"
 msgid "Toggle Statusbar"
-msgstr ""
+msgstr "Växla statusfält"
 
 msgctxt "#30615"
 msgid "Switch Joyport"
-msgstr ""
+msgstr "Växla Joyport"
 
 msgctxt "#30616"
 msgid "Joystick Up"
@@ -2768,6 +2360,802 @@ msgstr ""
 msgctxt "#30676"
 msgid "Remove borders according to 'Crop Mode'. 'Auto-Disable' stays disabled until content reset."
 msgstr ""
+
+msgctxt "#30677"
+msgid "Model"
+msgstr "Modell"
+
+msgctxt "#30678"
+msgid "SuperCPU SIMM Size"
+msgstr "SuperCPU SIMM-storlek"
+
+msgctxt "#30679"
+msgid "SuperCPU Speed Switch"
+msgstr "Hastighetsväxlare för SuperCPU"
+
+msgctxt "#30680"
+msgid "SuperCPU Kernal"
+msgstr "SuperCPU Kernal"
+
+msgctxt "#30681"
+msgid "Printer"
+msgstr "Skrivare"
+
+msgctxt "#30682"
+msgid "JiffyDOS"
+msgstr "JiffyDOS"
+
+msgctxt "#30683"
+msgid "Read 'vicerc'"
+msgstr "Läs \"vicerc"
+
+msgctxt "#30684"
+msgid "Reset Type"
+msgstr "Omstartstyp"
+
+msgctxt "#30714"
+msgid "Automatic Load Warp"
+msgstr "Automatisk Load Warp"
+
+msgctxt "#30715"
+msgid "Warp Boost"
+msgstr "Warp Boost"
+
+msgctxt "#30716"
+msgid "True Drive Emulation"
+msgstr "True Drive-emulering"
+
+msgctxt "#30717"
+msgid "Virtual Device Traps"
+msgstr "Traps för virtuella enheter"
+
+msgctxt "#30718"
+msgid "Floppy MultiDrive"
+msgstr "Diskett MultiDrive"
+
+msgctxt "#30719"
+msgid "Floppy Write Protection"
+msgstr "Skrivskydd för disketter"
+
+msgctxt "#30720"
+msgid "Global Work Disk"
+msgstr "Global arbetsdisk"
+
+msgctxt "#30721"
+msgid "Cartridge"
+msgstr "Kassett"
+
+msgctxt "#30696"
+msgid "Pixel Aspect Ratio"
+msgstr "Bildförhållande per bildpunkt"
+
+msgctxt "#30697"
+msgid "Crop"
+msgstr "Beskär"
+
+msgctxt "#30698"
+msgid "Automatic Crop Delay"
+msgstr "Automatisk fördröjning av beskärning"
+
+msgctxt "#30699"
+msgid "Crop Mode"
+msgstr "Beskärningsläge"
+
+msgctxt "#30700"
+msgid "Manual Crop Top"
+msgstr "Manuell beskärning överst"
+
+msgctxt "#30701"
+msgid "Manual Crop Bottom"
+msgstr "Manuell beskärning nederst"
+
+msgctxt "#30702"
+msgid "Manual Crop Left"
+msgstr "Manuell beskärning vänster"
+
+msgctxt "#30703"
+msgid "Manual Crop Right"
+msgstr "Manuell beskärning höger"
+
+msgctxt "#30704"
+msgid "VIC-II Filter"
+msgstr "VIC-II-filter"
+
+msgctxt "#30705"
+msgid "VIC-II Filter Oddline Offset"
+msgstr "VIC-II-filter Oddline Offset"
+
+msgctxt "#30706"
+msgid "VIC-II Filter Oddline Phase"
+msgstr "VIC-II-filter Oddline Phase"
+
+msgctxt "#30707"
+msgid "VIC-II Color Palette"
+msgstr "VIC-II Färgpalett"
+
+msgctxt "#30708"
+msgid "VIC-II Color Gamma"
+msgstr "VIC-II Färggamma"
+
+msgctxt "#30709"
+msgid "VIC-II Color Brightness"
+msgstr "VIC-II Färgljusstyrka"
+
+msgctxt "#30710"
+msgid "VIC-II Color Contrast"
+msgstr "VIC-II Färgkontrast"
+
+msgctxt "#30711"
+msgid "VIC-II Color Saturation"
+msgstr "VIC-II Färgmättnad"
+
+msgctxt "#30712"
+msgid "VIC-II Color Tint"
+msgstr "VIC-II Färgtoning"
+
+msgctxt "#30713"
+msgid "Color Depth"
+msgstr "Färgdjup"
+
+msgctxt "#30768"
+msgid "Virtual KBD Theme"
+msgstr "Virtuellt KBD-tema"
+
+msgctxt "#30769"
+msgid "Virtual KBD Transparency"
+msgstr "Virtuell KBD-genomskinlighet"
+
+msgctxt "#30770"
+msgid "Virtual KBD Dimming"
+msgstr "Virtuell KBD-dimning"
+
+msgctxt "#30771"
+msgid "Statusbar Mode"
+msgstr "Statusfältläge"
+
+msgctxt "#30772"
+msgid "Statusbar Startup"
+msgstr "Statusfält vid uppstart"
+
+msgctxt "#30773"
+msgid "Statusbar Messages"
+msgstr "Meddelanden för statusfält"
+
+msgctxt "#30774"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "Färg på ljuspennan/pistolpekaren"
+
+msgctxt "#30685"
+msgid "Drive Sound Emulation"
+msgstr "Emulering av enhetsljud"
+
+msgctxt "#30686"
+msgid "VIC-II Audio Leak Emulation"
+msgstr "Emulering av ljudläckage från VIC-II"
+
+msgctxt "#30687"
+msgid "SID Engine"
+msgstr "SID-motor"
+
+msgctxt "#30688"
+msgid "SID Model"
+msgstr "SID-modell"
+
+msgctxt "#30689"
+msgid "SID Extra"
+msgstr "SID Extra"
+
+msgctxt "#30690"
+msgid "ReSID Sampling"
+msgstr "ReSID-sampling"
+
+msgctxt "#30691"
+msgid "ReSID Filter Passband"
+msgstr "ReSID-filter passband"
+
+msgctxt "#30692"
+msgid "ReSID Filter Gain"
+msgstr "ReSID-filter förstärkning"
+
+msgctxt "#30693"
+msgid "ReSID Filter 6581 Bias"
+msgstr "ReSID-filter 6581 Bias"
+
+msgctxt "#30694"
+msgid "ReSID Filter 8580 Bias"
+msgstr "ReSID-filter 8580 Bias"
+
+msgctxt "#30695"
+msgid "Sample Rate"
+msgstr "Samplingsfrekvens"
+
+msgctxt "#30722"
+msgid "Analog Stick Mouse"
+msgstr "Analog spak-mus"
+
+msgctxt "#30723"
+msgid "Analog Stick Mouse Deadzone"
+msgstr "Dödzon för analog spak-mus"
+
+msgctxt "#30724"
+msgid "Left Analog Stick Mouse Speed"
+msgstr "Mushastighet för vänster analog spak"
+
+msgctxt "#30725"
+msgid "Right Analog Stick Mouse Speed"
+msgstr "Mushastighet för höger analog spak"
+
+msgctxt "#30726"
+msgid "D-Pad Mouse Speed"
+msgstr "Mushastighet för riktningsknappar"
+
+msgctxt "#30727"
+msgid "Mouse Speed"
+msgstr "Mushastighet"
+
+msgctxt "#30728"
+msgid "Keyboard Pass-through"
+msgstr "Genomströmning av tangentbord"
+
+msgctxt "#30729"
+msgid "Keyrah Keypad Mappings"
+msgstr "Mappningar för Keyrah-tangentbord"
+
+msgctxt "#30730"
+msgid "Keyboard Keymap"
+msgstr "Tangentbordsmappningar"
+
+msgctxt "#30738"
+msgid "Toggle Turbo Fire"
+msgstr "Växla turboavfyrning"
+
+msgctxt "#30739"
+msgid "Toggle Save Disk"
+msgstr "Växla sparningsdisk"
+
+msgctxt "#30740"
+msgid "Toggle Aspect Ratio"
+msgstr "Växla bildförhållande"
+
+msgctxt "#30741"
+msgid "Toggle Crop"
+msgstr "Växla beskärning"
+
+msgctxt "#30742"
+msgid "Reset"
+msgstr "Omstart"
+
+msgctxt "#30743"
+msgid "Hold Warp Mode"
+msgstr "Hold Warp-läge"
+
+msgctxt "#30744"
+msgid "Up"
+msgstr "Upp"
+
+msgctxt "#30745"
+msgid "Down"
+msgstr "Ner"
+
+msgctxt "#30746"
+msgid "Left"
+msgstr "Vänster"
+
+msgctxt "#30747"
+msgid "Right"
+msgstr "Höger"
+
+msgctxt "#30748"
+msgid "B"
+msgstr "B"
+
+msgctxt "#30749"
+msgid "A"
+msgstr "A"
+
+msgctxt "#30750"
+msgid "Y"
+msgstr "Y"
+
+msgctxt "#30751"
+msgid "X"
+msgstr "X"
+
+msgctxt "#30752"
+msgid "Select"
+msgstr "Select"
+
+msgctxt "#30753"
+msgid "Start"
+msgstr "Start"
+
+msgctxt "#30754"
+msgid "L"
+msgstr "L"
+
+msgctxt "#30755"
+msgid "R"
+msgstr "R"
+
+msgctxt "#30756"
+msgid "L2"
+msgstr "L2"
+
+msgctxt "#30757"
+msgid "R2"
+msgstr "R2"
+
+msgctxt "#30758"
+msgid "L3"
+msgstr "L3"
+
+msgctxt "#30759"
+msgid "R3"
+msgstr "R3"
+
+msgctxt "#30760"
+msgid "Left Analog > Up"
+msgstr "Vänster analog > Upp"
+
+msgctxt "#30761"
+msgid "Left Analog > Down"
+msgstr "Vänster analog > Ner"
+
+msgctxt "#30762"
+msgid "Left Analog > Left"
+msgstr "Vänster analog > Vänster"
+
+msgctxt "#30763"
+msgid "Left Analog > Right"
+msgstr "Vänster analog > Höger"
+
+msgctxt "#30764"
+msgid "Right Analog > Up"
+msgstr "Höger analog > Upp"
+
+msgctxt "#30765"
+msgid "Right Analog > Down"
+msgstr "Höger analog > Ner"
+
+msgctxt "#30766"
+msgid "Right Analog > Left"
+msgstr "Höger analog > Vänster"
+
+msgctxt "#30767"
+msgid "Right Analog > Right"
+msgstr "Höger analog > Höger"
+
+msgctxt "#30731"
+msgid "Turbo Fire"
+msgstr "Turbo-avfyrning"
+
+msgctxt "#30732"
+msgid "Turbo Button"
+msgstr "Turbo-knapp"
+
+msgctxt "#30733"
+msgid "Turbo Pulse"
+msgstr "Turbo-puls"
+
+msgctxt "#30734"
+msgid "Userport Joystick Adapter"
+msgstr "Userport Joystick-adapter"
+
+msgctxt "#30735"
+msgid "Joystick Port"
+msgstr "Port för joystick"
+
+msgctxt "#30736"
+msgid "Joystick Port Type"
+msgstr "Typ av joystickport"
+
+#~ msgctxt "#30001"
+#~ msgid "System > Model"
+#~ msgstr "System > Modell"
+
+#~ msgctxt "#30002"
+#~ msgid "System > SuperCPU SIMM Size"
+#~ msgstr "System > SuperCPU SIMM-storlek"
+
+#~ msgctxt "#30003"
+#~ msgid "System > SuperCPU Speed Switch"
+#~ msgstr "System > Hastighetsväxlare för SuperCPU"
+
+#~ msgctxt "#30004"
+#~ msgid "System > SuperCPU Kernal"
+#~ msgstr "System > SuperCPU Kernal"
+
+#~ msgctxt "#30005"
+#~ msgid "System > JiffyDOS"
+#~ msgstr "System > JiffyDOS"
+
+#~ msgctxt "#30006"
+#~ msgid "System > Read 'vicerc'"
+#~ msgstr "System > Läs \"vicerc"
+
+#~ msgctxt "#30007"
+#~ msgid "System > Reset Type"
+#~ msgstr "System > Omstartstyp"
+
+#~ msgctxt "#30008"
+#~ msgid "Media > Automatic Load Warp"
+#~ msgstr "Media > Automatisk Load Warp"
+
+#~ msgctxt "#30009"
+#~ msgid "Media > Warp Boost"
+#~ msgstr "Media > Warp Boost"
+
+#~ msgctxt "#30010"
+#~ msgid "Media > Autostart"
+#~ msgstr "Media > Autostart"
+
+#~ msgctxt "#30011"
+#~ msgid "Media > True Drive Emulation"
+#~ msgstr "Media > True Drive-emulering"
+
+#~ msgctxt "#30012"
+#~ msgid "Media > Virtual Device Traps"
+#~ msgstr "Media > Traps för virtuella enheter"
+
+#~ msgctxt "#30013"
+#~ msgid "Media > Floppy Write Protection"
+#~ msgstr "Media > Skrivskydd för disketter"
+
+#~ msgctxt "#30014"
+#~ msgid "Media > Global Work Disk"
+#~ msgstr "Media > Global arbetsdisk"
+
+#~ msgctxt "#30015"
+#~ msgid "Media > Cartridge"
+#~ msgstr "Media > Kassett"
+
+#~ msgctxt "#30017"
+#~ msgid "Video > Pixel Aspect Ratio"
+#~ msgstr "Video > Bildförhållande per bildpunkt"
+
+#~ msgctxt "#30018"
+#~ msgid "Video > Crop"
+#~ msgstr "Video > Beskär"
+
+#~ msgctxt "#30020"
+#~ msgid "Video > Crop Mode"
+#~ msgstr "Video > Beskärningsläge"
+
+#~ msgctxt "#30022"
+#~ msgid "Video > Manual Crop Top"
+#~ msgstr "Video > Manuell beskärning överst"
+
+#~ msgctxt "#30023"
+#~ msgid "Video > Manual Crop Bottom"
+#~ msgstr "Video > Manuell beskärning nederst"
+
+#~ msgctxt "#30024"
+#~ msgid "Video > Manual Crop Left"
+#~ msgstr "Video > Manuell beskärning vänster"
+
+#~ msgctxt "#30025"
+#~ msgid "Video > Manual Crop Right"
+#~ msgstr "Video > Manuell beskärning höger"
+
+#~ msgctxt "#30026"
+#~ msgid "Video > VIC-II Filter"
+#~ msgstr "Video > VIC-II-filter"
+
+#~ msgctxt "#30027"
+#~ msgid "Video > VIC-II Filter Oddline Offset"
+#~ msgstr "Video > VIC-II-filter Oddline Offset"
+
+#~ msgctxt "#30028"
+#~ msgid "Video > VIC-II Filter Oddline Phase"
+#~ msgstr "Video > VIC-II-filter Oddline Phase"
+
+#~ msgctxt "#30029"
+#~ msgid "Video > VIC-II Color Palette"
+#~ msgstr "Video > VIC-II Färgpalett"
+
+#~ msgctxt "#30030"
+#~ msgid "Video > VIC-II Color Gamma"
+#~ msgstr "Video > VIC-II Färggamma"
+
+#~ msgctxt "#30031"
+#~ msgid "Video > VIC-II Color Brightness"
+#~ msgstr "Video > VIC-II Färgljusstyrka"
+
+#~ msgctxt "#30032"
+#~ msgid "Video > VIC-II Color Contrast"
+#~ msgstr "Video > VIC-II Färgkontrast"
+
+#~ msgctxt "#30033"
+#~ msgid "Video > VIC-II Color Saturation"
+#~ msgstr "Video > VIC-II Färgmättnad"
+
+#~ msgctxt "#30034"
+#~ msgid "Video > VIC-II Color Tint"
+#~ msgstr "Video > VIC-II Färgtoning"
+
+#~ msgctxt "#30035"
+#~ msgid "Video > Color Depth"
+#~ msgstr "Video > Färgdjup"
+
+#~ msgctxt "#30036"
+#~ msgid "OSD > Virtual KBD Theme"
+#~ msgstr "OSD > Virtuellt KBD-tema"
+
+#~ msgctxt "#30037"
+#~ msgid "OSD > Virtual KBD Transparency"
+#~ msgstr "OSD > Virtuell KBD-genomskinlighet"
+
+#~ msgctxt "#30038"
+#~ msgid "OSD > Virtual KBD Dimming"
+#~ msgstr "OSD > Virtuell KBD-dimning"
+
+#~ msgctxt "#30039"
+#~ msgid "OSD > Statusbar Mode"
+#~ msgstr "OSD > Statusfältläge"
+
+#~ msgctxt "#30040"
+#~ msgid "OSD > Statusbar Startup"
+#~ msgstr "OSD > Statusfält vid uppstart"
+
+#~ msgctxt "#30041"
+#~ msgid "OSD > Statusbar Messages"
+#~ msgstr "OSD > Meddelanden för statusfält"
+
+#~ msgctxt "#30042"
+#~ msgid "OSD > Light Pen/Gun Pointer Color"
+#~ msgstr "OSD > Färg på ljuspennan/pistolpekaren"
+
+#~ msgctxt "#30044"
+#~ msgid "Audio > Drive Sound Emulation"
+#~ msgstr "Ljud > Emulering av enhetsljud"
+
+#~ msgctxt "#30045"
+#~ msgid "Audio > VIC-II Audio Leak Emulation"
+#~ msgstr "Audio > Emulering av ljudläckage från VIC-II"
+
+#~ msgctxt "#30046"
+#~ msgid "Audio > SID Engine"
+#~ msgstr "Ljud > SID-motor"
+
+#~ msgctxt "#30047"
+#~ msgid "Audio > SID Model"
+#~ msgstr "Ljud > SID-modell"
+
+#~ msgctxt "#30048"
+#~ msgid "Audio > SID Extra"
+#~ msgstr "Ljud > SID Extra"
+
+#~ msgctxt "#30049"
+#~ msgid "Audio > ReSID Sampling"
+#~ msgstr "Ljud > ReSID-sampling"
+
+#~ msgctxt "#30050"
+#~ msgid "Audio > ReSID Filter Passband"
+#~ msgstr "Ljud > ReSID-filter passband"
+
+#~ msgctxt "#30051"
+#~ msgid "Audio > ReSID Filter Gain"
+#~ msgstr "Ljud > ReSID-filter förstärkning"
+
+#~ msgctxt "#30052"
+#~ msgid "Audio > ReSID Filter 6581 Bias"
+#~ msgstr "Ljud > ReSID-filter 6581 Bias"
+
+#~ msgctxt "#30053"
+#~ msgid "Audio > ReSID Filter 8580 Bias"
+#~ msgstr "Ljud > ReSID-filter 8580 Bias"
+
+#~ msgctxt "#30054"
+#~ msgid "Audio > Sample Rate"
+#~ msgstr "Ljud > Samplingsfrekvens"
+
+#~ msgctxt "#30055"
+#~ msgid "Input > Analog Stick Mouse"
+#~ msgstr "Inmatning > Analog spak-mus"
+
+#~ msgctxt "#30056"
+#~ msgid "Input > Analog Stick Mouse Deadzone"
+#~ msgstr "Inmatning > Dödzon för analog spak-mus"
+
+#~ msgctxt "#30058"
+#~ msgid "Input > D-Pad Mouse Speed"
+#~ msgstr "Inmatning > Mushastighet för riktningsknappar"
+
+#~ msgctxt "#30059"
+#~ msgid "Input > Mouse Speed"
+#~ msgstr "Inmatning > Mushastighet"
+
+#~ msgctxt "#30060"
+#~ msgid "Input > Keyboard Pass-through"
+#~ msgstr "Inmatning > Genomströmning av tangentbord"
+
+#~ msgctxt "#30061"
+#~ msgid "Input > Keyrah Keypad Mappings"
+#~ msgstr "Inmatning > Mappningar för Keyrah-tangentbord"
+
+#~ msgctxt "#30062"
+#~ msgid "Input > Keyboard Keymap"
+#~ msgstr "Inmatning > Tangentbordsmappningar"
+
+#~ msgctxt "#30064"
+#~ msgid "Hotkey > Toggle Virtual Keyboard"
+#~ msgstr "Snabbtangent > Växla virtuellt tangentbord"
+
+#~ msgctxt "#30065"
+#~ msgid "Hotkey > Toggle Statusbar"
+#~ msgstr "Snabbtangent > Växla statusfält"
+
+#~ msgctxt "#30066"
+#~ msgid "Hotkey > Switch Joyport"
+#~ msgstr "Snabbtangent > Växla Joyport"
+
+#~ msgctxt "#30067"
+#~ msgid "Hotkey > Toggle Turbo Fire"
+#~ msgstr "Snabbtangent > Växla turboavfyrning"
+
+#~ msgctxt "#30068"
+#~ msgid "Hotkey > Toggle Save Disk"
+#~ msgstr "Snabbtangent > Växla sparningsdisk"
+
+#~ msgctxt "#30069"
+#~ msgid "Hotkey > Reset"
+#~ msgstr "Snabbknapp > Omstart"
+
+#~ msgctxt "#30070"
+#~ msgid "Hotkey > Hold Warp Mode"
+#~ msgstr "Snabbtangent > Hold Warp-läge"
+
+#~ msgctxt "#30071"
+#~ msgid "Hotkey > Toggle Aspect Ratio"
+#~ msgstr "Snabbtangent > Växla bildförhållande"
+
+#~ msgctxt "#30072"
+#~ msgid "Hotkey > Toggle Crop"
+#~ msgstr "Snabbtangent > Växla beskärning"
+
+#~ msgctxt "#30074"
+#~ msgid "RetroPad > Up"
+#~ msgstr "RetroPad > Upp"
+
+#~ msgctxt "#30075"
+#~ msgid "RetroPad > Down"
+#~ msgstr "RetroPad > Ner"
+
+#~ msgctxt "#30076"
+#~ msgid "RetroPad > Left"
+#~ msgstr "RetroPad > Vänster"
+
+#~ msgctxt "#30077"
+#~ msgid "RetroPad > Right"
+#~ msgstr "RetroPad > Höger"
+
+#~ msgctxt "#30078"
+#~ msgid "RetroPad > A"
+#~ msgstr "RetroPad > A"
+
+#~ msgctxt "#30079"
+#~ msgid "RetroPad > B"
+#~ msgstr "RetroPad > B"
+
+#~ msgctxt "#30080"
+#~ msgid "RetroPad > X"
+#~ msgstr "RetroPad > X"
+
+#~ msgctxt "#30081"
+#~ msgid "RetroPad > Y"
+#~ msgstr "RetroPad > Y"
+
+#~ msgctxt "#30082"
+#~ msgid "RetroPad > Select"
+#~ msgstr "RetroPad > Select"
+
+#~ msgctxt "#30083"
+#~ msgid "RetroPad > Start"
+#~ msgstr "RetroPad > Start"
+
+#~ msgctxt "#30084"
+#~ msgid "RetroPad > L"
+#~ msgstr "RetroPad > L"
+
+#~ msgctxt "#30085"
+#~ msgid "RetroPad > R"
+#~ msgstr "RetroPad > R"
+
+#~ msgctxt "#30086"
+#~ msgid "RetroPad > L2"
+#~ msgstr "RetroPad > L2"
+
+#~ msgctxt "#30087"
+#~ msgid "RetroPad > R2"
+#~ msgstr "RetroPad > R2"
+
+#~ msgctxt "#30088"
+#~ msgid "RetroPad > L3"
+#~ msgstr "RetroPad > L3"
+
+#~ msgctxt "#30089"
+#~ msgid "RetroPad > R3"
+#~ msgstr "RetroPad > R3"
+
+#~ msgctxt "#30090"
+#~ msgid "RetroPad > Left Analog > Up"
+#~ msgstr "RetroPad > Vänster analog > Upp"
+
+#~ msgctxt "#30091"
+#~ msgid "RetroPad > Left Analog > Down"
+#~ msgstr "RetroPad > Vänster analog > Ner"
+
+#~ msgctxt "#30092"
+#~ msgid "RetroPad > Left Analog > Left"
+#~ msgstr "RetroPad > Vänster analog > Vänster"
+
+#~ msgctxt "#30093"
+#~ msgid "RetroPad > Left Analog > Right"
+#~ msgstr "RetroPad > Vänster analog > Höger"
+
+#~ msgctxt "#30094"
+#~ msgid "RetroPad > Right Analog > Up"
+#~ msgstr "RetroPad > Höger analog > Upp"
+
+#~ msgctxt "#30095"
+#~ msgid "RetroPad > Right Analog > Down"
+#~ msgstr "RetroPad > Höger analog > Ner"
+
+#~ msgctxt "#30096"
+#~ msgid "RetroPad > Right Analog > Left"
+#~ msgstr "RetroPad > Höger analog > Vänster"
+
+#~ msgctxt "#30097"
+#~ msgid "RetroPad > Right Analog > Right"
+#~ msgstr "RetroPad > Höger analog > Höger"
+
+#~ msgctxt "#30098"
+#~ msgid "RetroPad > Turbo Fire"
+#~ msgstr "RetroPad > Turbo-avfyrning"
+
+#~ msgctxt "#30099"
+#~ msgid "RetroPad > Turbo Button"
+#~ msgstr "RetroPad > Turbo-knapp"
+
+#~ msgctxt "#30100"
+#~ msgid "RetroPad > Turbo Pulse"
+#~ msgstr "RetroPad > Turbo-puls"
+
+#~ msgctxt "#30101"
+#~ msgid "Input > Userport Joystick Adapter"
+#~ msgstr "Inmatning > Userport Joystick-adapter"
+
+#~ msgctxt "#30102"
+#~ msgid "RetroPad > Joystick Port"
+#~ msgstr "RetroPad > Port för joystick"
+
+#~ msgctxt "#30103"
+#~ msgid "RetroPad > Joystick Port Type"
+#~ msgstr "RetroPad > Typ av joystickport"
+
+#~ msgctxt "#30104"
+#~ msgid "RetroPad > Face Button Options"
+#~ msgstr "RetroPad > Alternativ för handlingsknappar"
+
+#~ msgctxt "#30105"
+#~ msgid "System > Printer"
+#~ msgstr "System > Skrivare"
+
+#~ msgctxt "#30106"
+#~ msgid "Media > Floppy MultiDrive"
+#~ msgstr "Media > Diskett MultiDrive"
+
+#~ msgctxt "#30107"
+#~ msgid "Video > Automatic Crop Delay"
+#~ msgstr "Video > Automatisk fördröjning av beskärning"
+
+#~ msgctxt "#30108"
+#~ msgid "Input > Left Analog Stick Mouse Speed"
+#~ msgstr "Inmatning > Mushastighet för vänster analog spak"
+
+#~ msgctxt "#30109"
+#~ msgid "Input > Right Analog Stick Mouse Speed"
+#~ msgstr "Inmatning > Mushastighet för höger analog spak"
 
 #~ msgctxt "#30019"
 #~ msgid "Video > Zoom Mode"
