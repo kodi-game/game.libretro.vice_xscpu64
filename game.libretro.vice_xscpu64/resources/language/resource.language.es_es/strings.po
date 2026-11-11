@@ -364,6 +364,10 @@ msgctxt "#30186"
 msgid "1:1"
 msgstr ""
 
+msgctxt "#30187"
+msgid "Remove borders according to 'Crop Mode'."
+msgstr ""
+
 msgctxt "#30188"
 msgid "Small"
 msgstr ""
@@ -2393,33 +2397,49 @@ msgctxt "#30684"
 msgid "Reset Type"
 msgstr "Inicio Automático"
 
-msgctxt "#30714"
-msgid "Automatic Load Warp"
-msgstr "Inicio Automático"
+msgctxt "#30685"
+msgid "Drive Sound Emulation"
+msgstr "VIC-II Emulación de Pérdida de Audio"
 
-msgctxt "#30715"
-msgid "Warp Boost"
-msgstr "Emulación de Unidad Real"
+msgctxt "#30686"
+msgid "VIC-II Audio Leak Emulation"
+msgstr "Motor SID"
 
-msgctxt "#30716"
-msgid "True Drive Emulation"
-msgstr "Capturas de Dispositivos Virtuales"
+msgctxt "#30687"
+msgid "SID Engine"
+msgstr "Modelo SID"
 
-msgctxt "#30717"
-msgid "Virtual Device Traps"
-msgstr "Protección Contra Escritura de Disquetes"
+msgctxt "#30688"
+msgid "SID Model"
+msgstr "SID Adicional"
 
-msgctxt "#30718"
-msgid "Floppy MultiDrive"
-msgstr "Botón Turbo"
+msgctxt "#30689"
+msgid "SID Extra"
+msgstr "Muestreo ReSID"
 
-msgctxt "#30719"
-msgid "Floppy Write Protection"
-msgstr "Protección Contra Escritura de EasyFlash"
+msgctxt "#30690"
+msgid "ReSID Sampling"
+msgstr "Filtro Paso banda ReSID"
 
-msgctxt "#30720"
-msgid "Global Work Disk"
-msgstr "Cartucho"
+msgctxt "#30691"
+msgid "ReSID Filter Passband"
+msgstr "Ganancia de Filtro ReSID"
+
+msgctxt "#30692"
+msgid "ReSID Filter Gain"
+msgstr "Filtro ReSID 6581 Bias"
+
+msgctxt "#30693"
+msgid "ReSID Filter 6581 Bias"
+msgstr "Filtro ReSID 8580 Bias"
+
+msgctxt "#30694"
+msgid "ReSID Filter 8580 Bias"
+msgstr "Expansor de Sonido SFX"
+
+msgctxt "#30695"
+msgid "Sample Rate"
+msgstr "Ratón con Stick Analógico"
 
 msgctxt "#30696"
 msgid "Pixel Aspect Ratio"
@@ -2493,73 +2513,37 @@ msgctxt "#30713"
 msgid "Color Depth"
 msgstr "Tema KBD Virtual"
 
-msgctxt "#30768"
-msgid "Virtual KBD Theme"
-msgstr "Transparencia KBD Virtual"
+msgctxt "#30714"
+msgid "Automatic Load Warp"
+msgstr "Inicio Automático"
 
-msgctxt "#30769"
-msgid "Virtual KBD Transparency"
-msgstr "Atenuación KBD Virtual"
+msgctxt "#30715"
+msgid "Warp Boost"
+msgstr "Emulación de Unidad Real"
 
-msgctxt "#30770"
-msgid "Virtual KBD Dimming"
-msgstr "Modo Barra de Estado"
+msgctxt "#30716"
+msgid "True Drive Emulation"
+msgstr "Capturas de Dispositivos Virtuales"
 
-msgctxt "#30771"
-msgid "Statusbar Mode"
-msgstr "Mensajes en la Barra de Estado"
+msgctxt "#30717"
+msgid "Virtual Device Traps"
+msgstr "Protección Contra Escritura de Disquetes"
 
-msgctxt "#30772"
-msgid "Statusbar Startup"
-msgstr "Lápiz Óptico/Color Puntero Pistola"
+msgctxt "#30718"
+msgid "Floppy MultiDrive"
+msgstr "Botón Turbo"
 
-msgctxt "#30774"
-msgid "Light Pen/Gun Pointer Color"
-msgstr "Unidad de Emulación de Sonido"
+msgctxt "#30719"
+msgid "Floppy Write Protection"
+msgstr "Protección Contra Escritura de EasyFlash"
 
-msgctxt "#30685"
-msgid "Drive Sound Emulation"
-msgstr "VIC-II Emulación de Pérdida de Audio"
+msgctxt "#30720"
+msgid "Global Work Disk"
+msgstr "Cartucho"
 
-msgctxt "#30686"
-msgid "VIC-II Audio Leak Emulation"
-msgstr "Motor SID"
-
-msgctxt "#30687"
-msgid "SID Engine"
-msgstr "Modelo SID"
-
-msgctxt "#30688"
-msgid "SID Model"
-msgstr "SID Adicional"
-
-msgctxt "#30689"
-msgid "SID Extra"
-msgstr "Muestreo ReSID"
-
-msgctxt "#30690"
-msgid "ReSID Sampling"
-msgstr "Filtro Paso banda ReSID"
-
-msgctxt "#30691"
-msgid "ReSID Filter Passband"
-msgstr "Ganancia de Filtro ReSID"
-
-msgctxt "#30692"
-msgid "ReSID Filter Gain"
-msgstr "Filtro ReSID 6581 Bias"
-
-msgctxt "#30693"
-msgid "ReSID Filter 6581 Bias"
-msgstr "Filtro ReSID 8580 Bias"
-
-msgctxt "#30694"
-msgid "ReSID Filter 8580 Bias"
-msgstr "Expansor de Sonido SFX"
-
-msgctxt "#30695"
-msgid "Sample Rate"
-msgstr "Ratón con Stick Analógico"
+msgctxt "#30721"
+msgid "Cartridge"
+msgstr ""
 
 msgctxt "#30722"
 msgid "Analog Stick Mouse"
@@ -2596,6 +2580,34 @@ msgstr "Teclas Rápidas Datasette"
 msgctxt "#30730"
 msgid "Keyboard Keymap"
 msgstr "Mapeo del Teclado Keyrah"
+
+msgctxt "#30731"
+msgid "Turbo Fire"
+msgstr ""
+
+msgctxt "#30732"
+msgid "Turbo Button"
+msgstr ""
+
+msgctxt "#30733"
+msgid "Turbo Pulse"
+msgstr ""
+
+msgctxt "#30734"
+msgid "Userport Joystick Adapter"
+msgstr ""
+
+msgctxt "#30735"
+msgid "Joystick Port"
+msgstr ""
+
+msgctxt "#30736"
+msgid "Joystick Port Type"
+msgstr ""
+
+msgctxt "#30737"
+msgid "RetroPad Face Button Options"
+msgstr ""
 
 msgctxt "#30738"
 msgid "Toggle Turbo Fire"
@@ -2685,9 +2697,65 @@ msgctxt "#30759"
 msgid "R3"
 msgstr "Select"
 
+msgctxt "#30760"
+msgid "Left Analog > Up"
+msgstr ""
+
+msgctxt "#30761"
+msgid "Left Analog > Down"
+msgstr ""
+
+msgctxt "#30762"
+msgid "Left Analog > Left"
+msgstr ""
+
+msgctxt "#30763"
+msgid "Left Analog > Right"
+msgstr ""
+
+msgctxt "#30764"
+msgid "Right Analog > Up"
+msgstr ""
+
+msgctxt "#30765"
+msgid "Right Analog > Down"
+msgstr ""
+
+msgctxt "#30766"
+msgid "Right Analog > Left"
+msgstr ""
+
 msgctxt "#30767"
 msgid "Right Analog > Right"
 msgstr "Analógico Izquierdo > Arriba"
+
+msgctxt "#30768"
+msgid "Virtual KBD Theme"
+msgstr "Transparencia KBD Virtual"
+
+msgctxt "#30769"
+msgid "Virtual KBD Transparency"
+msgstr "Atenuación KBD Virtual"
+
+msgctxt "#30770"
+msgid "Virtual KBD Dimming"
+msgstr "Modo Barra de Estado"
+
+msgctxt "#30771"
+msgid "Statusbar Mode"
+msgstr "Mensajes en la Barra de Estado"
+
+msgctxt "#30772"
+msgid "Statusbar Startup"
+msgstr "Lápiz Óptico/Color Puntero Pistola"
+
+msgctxt "#30773"
+msgid "Statusbar Messages"
+msgstr ""
+
+msgctxt "#30774"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "Unidad de Emulación de Sonido"
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"

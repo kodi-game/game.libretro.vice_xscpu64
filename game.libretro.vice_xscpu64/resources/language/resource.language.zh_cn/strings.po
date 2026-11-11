@@ -364,6 +364,10 @@ msgctxt "#30186"
 msgid "1:1"
 msgstr ""
 
+msgctxt "#30187"
+msgid "Remove borders according to 'Crop Mode'."
+msgstr ""
+
 msgctxt "#30188"
 msgid "Small"
 msgstr ""
@@ -2393,33 +2397,49 @@ msgctxt "#30684"
 msgid "Reset Type"
 msgstr "自动启动"
 
-msgctxt "#30714"
-msgid "Automatic Load Warp"
-msgstr "自动启动"
+msgctxt "#30685"
+msgid "Drive Sound Emulation"
+msgstr "VIC-II 音频泄漏仿真"
 
-msgctxt "#30715"
-msgid "Warp Boost"
-msgstr "真实驱动器真"
+msgctxt "#30686"
+msgid "VIC-II Audio Leak Emulation"
+msgstr "SID 引擎"
 
-msgctxt "#30716"
-msgid "True Drive Emulation"
-msgstr "虚拟设备陷阱"
+msgctxt "#30687"
+msgid "SID Engine"
+msgstr "SID 型号"
 
-msgctxt "#30717"
-msgid "Virtual Device Traps"
-msgstr "软盘写保护"
+msgctxt "#30688"
+msgid "SID Model"
+msgstr "SID 附加"
 
-msgctxt "#30718"
-msgid "Floppy MultiDrive"
-msgstr "Turbo 按钮"
+msgctxt "#30689"
+msgid "SID Extra"
+msgstr "ReSID 采样"
 
-msgctxt "#30719"
-msgid "Floppy Write Protection"
-msgstr "EasyFlash 写保护"
+msgctxt "#30690"
+msgid "ReSID Sampling"
+msgstr "ReSID 滤波器通带"
 
-msgctxt "#30720"
-msgid "Global Work Disk"
-msgstr "卡带"
+msgctxt "#30691"
+msgid "ReSID Filter Passband"
+msgstr "ReSID 滤波器增益"
+
+msgctxt "#30692"
+msgid "ReSID Filter Gain"
+msgstr "ReSID 滤波器 6581 Bias"
+
+msgctxt "#30693"
+msgid "ReSID Filter 6581 Bias"
+msgstr "ReSID 滤波器 8580 Bias"
+
+msgctxt "#30694"
+msgid "ReSID Filter 8580 Bias"
+msgstr "SFX 扩音器"
+
+msgctxt "#30695"
+msgid "Sample Rate"
+msgstr "模拟游戏杆鼠标"
 
 msgctxt "#30696"
 msgid "Pixel Aspect Ratio"
@@ -2493,73 +2513,37 @@ msgctxt "#30713"
 msgid "Color Depth"
 msgstr "虚拟 KBD 主题"
 
-msgctxt "#30768"
-msgid "Virtual KBD Theme"
-msgstr "虚拟 KBD 透明度"
+msgctxt "#30714"
+msgid "Automatic Load Warp"
+msgstr "自动启动"
 
-msgctxt "#30769"
-msgid "Virtual KBD Transparency"
-msgstr "虚拟 KBD 调光"
+msgctxt "#30715"
+msgid "Warp Boost"
+msgstr "真实驱动器真"
 
-msgctxt "#30770"
-msgid "Virtual KBD Dimming"
-msgstr "状态栏模式"
+msgctxt "#30716"
+msgid "True Drive Emulation"
+msgstr "虚拟设备陷阱"
 
-msgctxt "#30771"
-msgid "Statusbar Mode"
-msgstr "状态栏信息"
+msgctxt "#30717"
+msgid "Virtual Device Traps"
+msgstr "软盘写保护"
 
-msgctxt "#30772"
-msgid "Statusbar Startup"
-msgstr "光笔/枪指针颜色"
+msgctxt "#30718"
+msgid "Floppy MultiDrive"
+msgstr "Turbo 按钮"
 
-msgctxt "#30774"
-msgid "Light Pen/Gun Pointer Color"
-msgstr "驱动器声音模拟"
+msgctxt "#30719"
+msgid "Floppy Write Protection"
+msgstr "EasyFlash 写保护"
 
-msgctxt "#30685"
-msgid "Drive Sound Emulation"
-msgstr "VIC-II 音频泄漏仿真"
+msgctxt "#30720"
+msgid "Global Work Disk"
+msgstr "卡带"
 
-msgctxt "#30686"
-msgid "VIC-II Audio Leak Emulation"
-msgstr "SID 引擎"
-
-msgctxt "#30687"
-msgid "SID Engine"
-msgstr "SID 型号"
-
-msgctxt "#30688"
-msgid "SID Model"
-msgstr "SID 附加"
-
-msgctxt "#30689"
-msgid "SID Extra"
-msgstr "ReSID 采样"
-
-msgctxt "#30690"
-msgid "ReSID Sampling"
-msgstr "ReSID 滤波器通带"
-
-msgctxt "#30691"
-msgid "ReSID Filter Passband"
-msgstr "ReSID 滤波器增益"
-
-msgctxt "#30692"
-msgid "ReSID Filter Gain"
-msgstr "ReSID 滤波器 6581 Bias"
-
-msgctxt "#30693"
-msgid "ReSID Filter 6581 Bias"
-msgstr "ReSID 滤波器 8580 Bias"
-
-msgctxt "#30694"
-msgid "ReSID Filter 8580 Bias"
-msgstr "SFX 扩音器"
-
-msgctxt "#30695"
-msgid "Sample Rate"
-msgstr "模拟游戏杆鼠标"
+msgctxt "#30721"
+msgid "Cartridge"
+msgstr ""
 
 msgctxt "#30722"
 msgid "Analog Stick Mouse"
@@ -2596,6 +2580,34 @@ msgstr "磁带机热键"
 msgctxt "#30730"
 msgid "Keyboard Keymap"
 msgstr "Keyrah 键盘映射"
+
+msgctxt "#30731"
+msgid "Turbo Fire"
+msgstr ""
+
+msgctxt "#30732"
+msgid "Turbo Button"
+msgstr ""
+
+msgctxt "#30733"
+msgid "Turbo Pulse"
+msgstr ""
+
+msgctxt "#30734"
+msgid "Userport Joystick Adapter"
+msgstr ""
+
+msgctxt "#30735"
+msgid "Joystick Port"
+msgstr ""
+
+msgctxt "#30736"
+msgid "Joystick Port Type"
+msgstr ""
+
+msgctxt "#30737"
+msgid "RetroPad Face Button Options"
+msgstr ""
 
 msgctxt "#30738"
 msgid "Toggle Turbo Fire"
@@ -2685,9 +2697,65 @@ msgctxt "#30759"
 msgid "R3"
 msgstr "Select"
 
+msgctxt "#30760"
+msgid "Left Analog > Up"
+msgstr ""
+
+msgctxt "#30761"
+msgid "Left Analog > Down"
+msgstr ""
+
+msgctxt "#30762"
+msgid "Left Analog > Left"
+msgstr ""
+
+msgctxt "#30763"
+msgid "Left Analog > Right"
+msgstr ""
+
+msgctxt "#30764"
+msgid "Right Analog > Up"
+msgstr ""
+
+msgctxt "#30765"
+msgid "Right Analog > Down"
+msgstr ""
+
+msgctxt "#30766"
+msgid "Right Analog > Left"
+msgstr ""
+
 msgctxt "#30767"
 msgid "Right Analog > Right"
 msgstr "左模拟 > 上"
+
+msgctxt "#30768"
+msgid "Virtual KBD Theme"
+msgstr "虚拟 KBD 透明度"
+
+msgctxt "#30769"
+msgid "Virtual KBD Transparency"
+msgstr "虚拟 KBD 调光"
+
+msgctxt "#30770"
+msgid "Virtual KBD Dimming"
+msgstr "状态栏模式"
+
+msgctxt "#30771"
+msgid "Statusbar Mode"
+msgstr "状态栏信息"
+
+msgctxt "#30772"
+msgid "Statusbar Startup"
+msgstr "光笔/枪指针颜色"
+
+msgctxt "#30773"
+msgid "Statusbar Messages"
+msgstr ""
+
+msgctxt "#30774"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "驱动器声音模拟"
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"

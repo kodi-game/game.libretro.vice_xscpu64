@@ -364,6 +364,10 @@ msgctxt "#30186"
 msgid "1:1"
 msgstr ""
 
+msgctxt "#30187"
+msgid "Remove borders according to 'Crop Mode'."
+msgstr ""
+
 msgctxt "#30188"
 msgid "Small"
 msgstr ""
@@ -2361,9 +2365,29 @@ msgctxt "#30676"
 msgid "Remove borders according to 'Crop Mode'. 'Auto-Disable' stays disabled until content reset."
 msgstr ""
 
+msgctxt "#30677"
+msgid "Model"
+msgstr ""
+
+msgctxt "#30678"
+msgid "SuperCPU SIMM Size"
+msgstr ""
+
+msgctxt "#30679"
+msgid "SuperCPU Speed Switch"
+msgstr ""
+
+msgctxt "#30680"
+msgid "SuperCPU Kernal"
+msgstr ""
+
 msgctxt "#30681"
 msgid "Printer"
 msgstr "Turbo-skyd"
+
+msgctxt "#30682"
+msgid "JiffyDOS"
+msgstr ""
 
 msgctxt "#30683"
 msgid "Read 'vicerc'"
@@ -2373,33 +2397,49 @@ msgctxt "#30684"
 msgid "Reset Type"
 msgstr "Automatisk start"
 
-msgctxt "#30714"
-msgid "Automatic Load Warp"
-msgstr "Automatisk start"
+msgctxt "#30685"
+msgid "Drive Sound Emulation"
+msgstr "VIC-II emulering af lydlæk"
 
-msgctxt "#30715"
-msgid "Warp Boost"
-msgstr "Ægte drev-emulering"
+msgctxt "#30686"
+msgid "VIC-II Audio Leak Emulation"
+msgstr "SID-motor"
 
-msgctxt "#30716"
-msgid "True Drive Emulation"
-msgstr "Virtuelle enhedsfælder"
+msgctxt "#30687"
+msgid "SID Engine"
+msgstr "SID-model"
 
-msgctxt "#30717"
-msgid "Virtual Device Traps"
-msgstr "Floppy skrivebeskyttelse"
+msgctxt "#30688"
+msgid "SID Model"
+msgstr "SID ekstra"
 
-msgctxt "#30718"
-msgid "Floppy MultiDrive"
-msgstr "Turboknap"
+msgctxt "#30689"
+msgid "SID Extra"
+msgstr "ReSID sampling"
 
-msgctxt "#30719"
-msgid "Floppy Write Protection"
-msgstr "EasyFlash skrivebeskyttelse"
+msgctxt "#30690"
+msgid "ReSID Sampling"
+msgstr "ReSID filter Passband"
 
-msgctxt "#30721"
-msgid "Cartridge"
-msgstr "Billedformat for pixel"
+msgctxt "#30691"
+msgid "ReSID Filter Passband"
+msgstr "ReSID filter gain"
+
+msgctxt "#30692"
+msgid "ReSID Filter Gain"
+msgstr "ReSID filter 6581 bias"
+
+msgctxt "#30693"
+msgid "ReSID Filter 6581 Bias"
+msgstr "ReSID filter 8580 bias"
+
+msgctxt "#30694"
+msgid "ReSID Filter 8580 Bias"
+msgstr "SFX lydudvidelse"
+
+msgctxt "#30695"
+msgid "Sample Rate"
+msgstr "Mus til analog stick"
 
 msgctxt "#30696"
 msgid "Pixel Aspect Ratio"
@@ -2473,73 +2513,37 @@ msgctxt "#30713"
 msgid "Color Depth"
 msgstr "Tilstand for statuslinje"
 
-msgctxt "#30768"
-msgid "Virtual KBD Theme"
-msgstr "Light pen/farve på pistolmarkør"
+msgctxt "#30714"
+msgid "Automatic Load Warp"
+msgstr "Automatisk start"
 
-msgctxt "#30770"
-msgid "Virtual KBD Dimming"
-msgstr "Tilstand for statuslinje"
+msgctxt "#30715"
+msgid "Warp Boost"
+msgstr "Ægte drev-emulering"
 
-msgctxt "#30771"
-msgid "Statusbar Mode"
-msgstr "Datasette-lyd"
+msgctxt "#30716"
+msgid "True Drive Emulation"
+msgstr "Virtuelle enhedsfælder"
 
-msgctxt "#30772"
-msgid "Statusbar Startup"
-msgstr "Light pen/farve på pistolmarkør"
+msgctxt "#30717"
+msgid "Virtual Device Traps"
+msgstr "Floppy skrivebeskyttelse"
 
-msgctxt "#30773"
-msgid "Statusbar Messages"
-msgstr "SID-motor"
+msgctxt "#30718"
+msgid "Floppy MultiDrive"
+msgstr "Turboknap"
 
-msgctxt "#30774"
-msgid "Light Pen/Gun Pointer Color"
-msgstr "SID-model"
+msgctxt "#30719"
+msgid "Floppy Write Protection"
+msgstr "EasyFlash skrivebeskyttelse"
 
-msgctxt "#30685"
-msgid "Drive Sound Emulation"
-msgstr "VIC-II emulering af lydlæk"
+msgctxt "#30720"
+msgid "Global Work Disk"
+msgstr ""
 
-msgctxt "#30686"
-msgid "VIC-II Audio Leak Emulation"
-msgstr "SID-motor"
-
-msgctxt "#30687"
-msgid "SID Engine"
-msgstr "SID-model"
-
-msgctxt "#30688"
-msgid "SID Model"
-msgstr "SID ekstra"
-
-msgctxt "#30689"
-msgid "SID Extra"
-msgstr "ReSID sampling"
-
-msgctxt "#30690"
-msgid "ReSID Sampling"
-msgstr "ReSID filter Passband"
-
-msgctxt "#30691"
-msgid "ReSID Filter Passband"
-msgstr "ReSID filter gain"
-
-msgctxt "#30692"
-msgid "ReSID Filter Gain"
-msgstr "ReSID filter 6581 bias"
-
-msgctxt "#30693"
-msgid "ReSID Filter 6581 Bias"
-msgstr "ReSID filter 8580 bias"
-
-msgctxt "#30694"
-msgid "ReSID Filter 8580 Bias"
-msgstr "SFX lydudvidelse"
-
-msgctxt "#30695"
-msgid "Sample Rate"
-msgstr "Mus til analog stick"
+msgctxt "#30721"
+msgid "Cartridge"
+msgstr "Billedformat for pixel"
 
 msgctxt "#30722"
 msgid "Analog Stick Mouse"
@@ -2576,6 +2580,34 @@ msgstr "Genvejstaster for datasette"
 msgctxt "#30730"
 msgid "Keyboard Keymap"
 msgstr "Keyrah keypad mappings"
+
+msgctxt "#30731"
+msgid "Turbo Fire"
+msgstr ""
+
+msgctxt "#30732"
+msgid "Turbo Button"
+msgstr ""
+
+msgctxt "#30733"
+msgid "Turbo Pulse"
+msgstr ""
+
+msgctxt "#30734"
+msgid "Userport Joystick Adapter"
+msgstr ""
+
+msgctxt "#30735"
+msgid "Joystick Port"
+msgstr ""
+
+msgctxt "#30736"
+msgid "Joystick Port Type"
+msgstr ""
+
+msgctxt "#30737"
+msgid "RetroPad Face Button Options"
+msgstr ""
 
 msgctxt "#30738"
 msgid "Toggle Turbo Fire"
@@ -2665,9 +2697,65 @@ msgctxt "#30759"
 msgid "R3"
 msgstr "Vælg"
 
+msgctxt "#30760"
+msgid "Left Analog > Up"
+msgstr ""
+
+msgctxt "#30761"
+msgid "Left Analog > Down"
+msgstr ""
+
+msgctxt "#30762"
+msgid "Left Analog > Left"
+msgstr ""
+
+msgctxt "#30763"
+msgid "Left Analog > Right"
+msgstr ""
+
+msgctxt "#30764"
+msgid "Right Analog > Up"
+msgstr ""
+
+msgctxt "#30765"
+msgid "Right Analog > Down"
+msgstr ""
+
+msgctxt "#30766"
+msgid "Right Analog > Left"
+msgstr ""
+
 msgctxt "#30767"
 msgid "Right Analog > Right"
 msgstr "Venstre analog > Op"
+
+msgctxt "#30768"
+msgid "Virtual KBD Theme"
+msgstr "Light pen/farve på pistolmarkør"
+
+msgctxt "#30769"
+msgid "Virtual KBD Transparency"
+msgstr ""
+
+msgctxt "#30770"
+msgid "Virtual KBD Dimming"
+msgstr "Tilstand for statuslinje"
+
+msgctxt "#30771"
+msgid "Statusbar Mode"
+msgstr "Datasette-lyd"
+
+msgctxt "#30772"
+msgid "Statusbar Startup"
+msgstr "Light pen/farve på pistolmarkør"
+
+msgctxt "#30773"
+msgid "Statusbar Messages"
+msgstr "SID-motor"
+
+msgctxt "#30774"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "SID-model"
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"
@@ -2813,58 +2901,6 @@ msgstr "Venstre analog > Op"
 #~ msgid "OSD > Statusbar Mode"
 #~ msgstr "OSD > Tilstand for statuslinje"
 
-#~ msgctxt "#30040"
-#~ msgid "OSD > Statusbar Startup"
-#~ msgstr ""
-
-#~ msgctxt "#30041"
-#~ msgid "OSD > Statusbar Messages"
-#~ msgstr ""
-
-#~ msgctxt "#30042"
-#~ msgid "OSD > Light Pen/Gun Pointer Color"
-#~ msgstr ""
-
-#~ msgctxt "#30044"
-#~ msgid "Audio > Drive Sound Emulation"
-#~ msgstr ""
-
-#~ msgctxt "#30045"
-#~ msgid "Audio > VIC-II Audio Leak Emulation"
-#~ msgstr ""
-
-#~ msgctxt "#30046"
-#~ msgid "Audio > SID Engine"
-#~ msgstr ""
-
-#~ msgctxt "#30047"
-#~ msgid "Audio > SID Model"
-#~ msgstr ""
-
-#~ msgctxt "#30048"
-#~ msgid "Audio > SID Extra"
-#~ msgstr ""
-
-#~ msgctxt "#30049"
-#~ msgid "Audio > ReSID Sampling"
-#~ msgstr ""
-
-#~ msgctxt "#30050"
-#~ msgid "Audio > ReSID Filter Passband"
-#~ msgstr ""
-
-#~ msgctxt "#30051"
-#~ msgid "Audio > ReSID Filter Gain"
-#~ msgstr ""
-
-#~ msgctxt "#30052"
-#~ msgid "Audio > ReSID Filter 6581 Bias"
-#~ msgstr ""
-
-#~ msgctxt "#30053"
-#~ msgid "Audio > ReSID Filter 8580 Bias"
-#~ msgstr ""
-
 #~ msgctxt "#30054"
 #~ msgid "Audio > Sample Rate"
 #~ msgstr "Lyd > Samplefrekvens"
@@ -2889,42 +2925,6 @@ msgstr "Venstre analog > Op"
 #~ msgid "Input > Keyboard Pass-through"
 #~ msgstr "Input > Gennemgang for tastatur"
 
-#~ msgctxt "#30061"
-#~ msgid "Input > Keyrah Keypad Mappings"
-#~ msgstr ""
-
-#~ msgctxt "#30062"
-#~ msgid "Input > Keyboard Keymap"
-#~ msgstr ""
-
-#~ msgctxt "#30064"
-#~ msgid "Hotkey > Toggle Virtual Keyboard"
-#~ msgstr ""
-
-#~ msgctxt "#30065"
-#~ msgid "Hotkey > Toggle Statusbar"
-#~ msgstr ""
-
-#~ msgctxt "#30066"
-#~ msgid "Hotkey > Switch Joyport"
-#~ msgstr ""
-
-#~ msgctxt "#30067"
-#~ msgid "Hotkey > Toggle Turbo Fire"
-#~ msgstr ""
-
-#~ msgctxt "#30068"
-#~ msgid "Hotkey > Toggle Save Disk"
-#~ msgstr ""
-
-#~ msgctxt "#30069"
-#~ msgid "Hotkey > Reset"
-#~ msgstr ""
-
-#~ msgctxt "#30070"
-#~ msgid "Hotkey > Hold Warp Mode"
-#~ msgstr ""
-
 #~ msgctxt "#30071"
 #~ msgid "Hotkey > Toggle Aspect Ratio"
 #~ msgstr "Genvej > Skift billedformat"
@@ -2933,149 +2933,13 @@ msgstr "Venstre analog > Op"
 #~ msgid "Hotkey > Toggle Crop"
 #~ msgstr "Genvej > Skift beskæring"
 
-#~ msgctxt "#30074"
-#~ msgid "RetroPad > Up"
-#~ msgstr ""
-
-#~ msgctxt "#30075"
-#~ msgid "RetroPad > Down"
-#~ msgstr ""
-
-#~ msgctxt "#30076"
-#~ msgid "RetroPad > Left"
-#~ msgstr ""
-
-#~ msgctxt "#30077"
-#~ msgid "RetroPad > Right"
-#~ msgstr ""
-
-#~ msgctxt "#30078"
-#~ msgid "RetroPad > A"
-#~ msgstr ""
-
 #~ msgctxt "#30079"
 #~ msgid "RetroPad > B"
 #~ msgstr "RetroPad > B"
 
-#~ msgctxt "#30080"
-#~ msgid "RetroPad > X"
-#~ msgstr ""
-
 #~ msgctxt "#30081"
 #~ msgid "RetroPad > Y"
 #~ msgstr "RetroPad > Y"
-
-#~ msgctxt "#30082"
-#~ msgid "RetroPad > Select"
-#~ msgstr ""
-
-#~ msgctxt "#30083"
-#~ msgid "RetroPad > Start"
-#~ msgstr ""
-
-#~ msgctxt "#30084"
-#~ msgid "RetroPad > L"
-#~ msgstr ""
-
-#~ msgctxt "#30085"
-#~ msgid "RetroPad > R"
-#~ msgstr ""
-
-#~ msgctxt "#30086"
-#~ msgid "RetroPad > L2"
-#~ msgstr ""
-
-#~ msgctxt "#30087"
-#~ msgid "RetroPad > R2"
-#~ msgstr ""
-
-#~ msgctxt "#30088"
-#~ msgid "RetroPad > L3"
-#~ msgstr ""
-
-#~ msgctxt "#30089"
-#~ msgid "RetroPad > R3"
-#~ msgstr ""
-
-#~ msgctxt "#30090"
-#~ msgid "RetroPad > Left Analog > Up"
-#~ msgstr ""
-
-#~ msgctxt "#30091"
-#~ msgid "RetroPad > Left Analog > Down"
-#~ msgstr ""
-
-#~ msgctxt "#30092"
-#~ msgid "RetroPad > Left Analog > Left"
-#~ msgstr ""
-
-#~ msgctxt "#30093"
-#~ msgid "RetroPad > Left Analog > Right"
-#~ msgstr ""
-
-#~ msgctxt "#30094"
-#~ msgid "RetroPad > Right Analog > Up"
-#~ msgstr ""
-
-#~ msgctxt "#30095"
-#~ msgid "RetroPad > Right Analog > Down"
-#~ msgstr ""
-
-#~ msgctxt "#30096"
-#~ msgid "RetroPad > Right Analog > Left"
-#~ msgstr ""
-
-#~ msgctxt "#30097"
-#~ msgid "RetroPad > Right Analog > Right"
-#~ msgstr ""
-
-#~ msgctxt "#30098"
-#~ msgid "RetroPad > Turbo Fire"
-#~ msgstr ""
-
-#~ msgctxt "#30099"
-#~ msgid "RetroPad > Turbo Button"
-#~ msgstr ""
-
-#~ msgctxt "#30100"
-#~ msgid "RetroPad > Turbo Pulse"
-#~ msgstr ""
-
-#~ msgctxt "#30101"
-#~ msgid "Input > Userport Joystick Adapter"
-#~ msgstr ""
-
-#~ msgctxt "#30102"
-#~ msgid "RetroPad > Joystick Port"
-#~ msgstr ""
-
-#~ msgctxt "#30103"
-#~ msgid "RetroPad > Joystick Port Type"
-#~ msgstr ""
-
-#~ msgctxt "#30104"
-#~ msgid "RetroPad > Face Button Options"
-#~ msgstr ""
-
-#~ msgctxt "#30105"
-#~ msgid "System > Printer"
-#~ msgstr ""
-
-#~ msgctxt "#30106"
-#~ msgid "Media > Floppy MultiDrive"
-#~ msgstr ""
-
-#~ msgctxt "#30107"
-#~ msgid "Video > Automatic Crop Delay"
-#~ msgstr ""
-
-#~ msgctxt "#30108"
-#~ msgid "Input > Left Analog Stick Mouse Speed"
-#~ msgstr ""
-
-#~ msgctxt "#30109"
-#~ msgid "Input > Right Analog Stick Mouse Speed"
-#~ msgstr ""
 
 #~ msgctxt "#30019"
 #~ msgid "Video > Zoom Mode"
