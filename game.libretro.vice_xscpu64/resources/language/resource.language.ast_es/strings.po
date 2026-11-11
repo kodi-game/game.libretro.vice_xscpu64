@@ -364,10 +364,6 @@ msgctxt "#30186"
 msgid "1:1"
 msgstr ""
 
-msgctxt "#30187"
-msgid "Remove borders according to 'Crop Mode'."
-msgstr ""
-
 msgctxt "#30188"
 msgid "Small"
 msgstr ""
@@ -2756,6 +2752,10 @@ msgstr ""
 msgctxt "#30774"
 msgid "Light Pen/Gun Pointer Color"
 msgstr ""
+
+#~ msgctxt "#30187"
+#~ msgid "Remove borders according to 'Crop Mode'."
+#~ msgstr ""
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"
